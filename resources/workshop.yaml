@@ -5,12 +5,12 @@ metadata:
 spec:
   title: TAP Workshop
   description: TAP Workshop
-  url: https://github.com/tanzu-end-to-end/tap-workshop
+  url: https://github.com/BrianMMcClain/tap-workshop
   workshop:
     files:
     - git:
         ref: origin/main
-        url: https://github.com/tanzu-end-to-end/tap-workshop
+        url: https://github.com/BrianMMcClain/tap-workshop
         includePaths:
           - /workshop/**
           - /exercises/**
